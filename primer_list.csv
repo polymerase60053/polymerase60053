@@ -1,0 +1,3 @@
+Name,Sequence,Tm (SnapGene),Tm (NEB),length,GC %,target plasmid,date ordered,description
+Primer-1-F,GCCGACCACTACCAGCAG,59,69,18,67 ,2okj-RBS2-iGABASnFR-pET29b+,2025-06-10,环P质粒，和iGABA2_frag做Gibson。因为之前设计的总是环P失败，所以缩短一点，看看降低Tm值也没有用
+Primer-2-R,ACGCCATGGTCGGAGACG,62,71,18,67 ,2okj-RBS2-iGABASnFR-pET29b+,2025-06-10,同上
